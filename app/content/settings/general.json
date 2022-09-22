@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\nHi",
+  "title": "Novatech",
+  "titleTemplate": "Company",
+  "welcomeText": "# S﻿omos Novatech, empresa de desarrollo de software\n\nNuestro sitio esta aun en desarrollo, vuelva en otro momento y le sorprenderemos.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Home page for Novatech Company",
   "seoMetaImage": ""
 }
